@@ -1,7 +1,7 @@
 name = "v2-xbot"
 compatibility_date = "2023-01-01"
 node_compat = true
-vars = { env = "staging", enableLog = "false", botToken = "YOUR_BOT_TOKEN", adminId = "YOUR_ADMIN_ID", tlgSupport = "@YOUR_SUUPORT_ID" }
+vars = { env = "staging", enableLog = "false", botToken = "7618982708:AAGKB2NVDma7UKzV9mRKCrsit5nPIh-wUE0", adminId = "662698945", tlgSupport = "@rezayadegarizadeh" }
 kv_namespaces = [
     { binding = "db", id = "YOUR_KV_ID" },
 ]
